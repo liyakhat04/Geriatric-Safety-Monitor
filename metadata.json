@@ -1,7 +1,0 @@
-{
-  "name": "Geriatric Safety Monitor",
-  "description": "AI-powered computer vision system for elderly safety, fall detection, and caregiver alerts.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
